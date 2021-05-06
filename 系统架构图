@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T16:05:22.504Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" version="14.6.10" etag="2rR5OzYYcBOatkoXekDR" type="github"><diagram id="Rj8XpRHh0EWDvp-zZ2xH">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-06T16:21:24.238Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="naTqBj0iwBjDjBP0wqoK" version="14.6.10" type="github">
+  <diagram id="Rj8XpRHh0EWDvp-zZ2xH" name="Page-1">
+    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-rLzM4AlmJQcQXvd1YtV-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="394" y="30" width="10" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="-rLzM4AlmJQcQXvd1YtV-5" value="&lt;div&gt;&lt;span&gt;各种相关Page&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;personPage，HomePage&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="230" y="90" width="310" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-rLzM4AlmJQcQXvd1YtV-6" value="各类组件Widget&lt;br&gt;CardItem&lt;br&gt;EventItem" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-rLzM4AlmJQcQXvd1YtV-7" value="客户端存储的数据实体&lt;br&gt;ReposViewModel&lt;br&gt;EventViewModel&lt;br&gt;UserItemViewModel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="280" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-rLzM4AlmJQcQXvd1YtV-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="394" y="150" width="10" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="-rLzM4AlmJQcQXvd1YtV-9" value="Dao&lt;br&gt;访问网络数据&lt;br&gt;EventDao&lt;br&gt;UserDao&lt;br&gt;CommitDao" style="rounded=0;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="230" y="400" width="310" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="-rLzM4AlmJQcQXvd1YtV-10" value="DbProvider" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
